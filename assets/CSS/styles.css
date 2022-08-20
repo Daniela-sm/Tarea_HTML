@@ -1,1 +1,14 @@
+body {
+    background-color: black;
+    color: white
+}
+header {
+    background-color: black;
+    color: lime
+}
+/*identificamos un elemento html cuyo atributo o propiedad id sea igual a contact */
 
+#contact {
+    background-color: rgba(80, 36, 36, 0.87);
+    color: white
+}
